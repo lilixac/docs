@@ -1,6 +1,6 @@
-# Twine Documentation
+# Twine Contracts Documentation
 
-This repository contains the documentation for the Twine project, built using Rust's `mdBook` tool.
+This repository contains the documentation for the Twine Solidity and Solana Programs, built using Rust's `mdBook` tool.
 
 ## Building the Documentation
 
